@@ -1,0 +1,12 @@
+### ✅ Pra que serve um Gist?
+
+- Compartilhar trechos de código com outras pessoas;
+- Armazenar scripts úteis pra você mesmo (como aliases, funções, SQLs etc);
+- Criar **anotações com Markdown**;
+- Postar exemplos para ajudar em issues, fóruns, chats etc;
+- Criar "mini tutoriais" com código executável.
+
+Lá você pode:
+
+- Criar Gists **públicos** (qualquer um pode ver);
+- Ou **secretos** (somente quem tiver o link consegue acessar, mas não são privados de verdade).
